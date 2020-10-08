@@ -8,3 +8,5 @@
 Mock演示方法
 1. mock server 代码在 py/weather.py， 使用python3运行
 2. 将iInterface.properties复制/粘贴到 {user.home} 目录下, 配置 server_addr 参数
+# jenkins接口功能自动化测试持续集成实战
+# Jenkins接口压力自动化测试持续集成实战
